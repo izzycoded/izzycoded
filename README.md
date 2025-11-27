@@ -1,5 +1,5 @@
 - 👋 Hello! I’m @izzycoded
-- 👀 I’m interested in gaining further knowledge on various languages in the programming field + effectively apply it wherever required
+- 👀 I’m interested in gaining expertise in programming + effectively apply it in the real world
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web Designing/Development projects & even more
 - 📫 How to reach me >> @izzycoded.ic on instagram & twitter
